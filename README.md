@@ -49,7 +49,7 @@ These visualizations help in understanding the differences and similarities betw
 
 ## License
 
-[Apache License]
+Apache 2.0
 
 ## Contributing
 
