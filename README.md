@@ -1,5 +1,3 @@
-Here's a draft README.md file for the GitHub repository based on the provided Jupyter notebook:
-
 # NER Dataset Comparison
 
 This repository contains a Jupyter notebook for comparing different Named Entity Recognition (NER) datasets using the Bhattacharyya coefficient.
